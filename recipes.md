@@ -113,3 +113,16 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### matcha latte
+
+Ingredients:
+- 1 1/2 tsp matcha powder
+- 1 tbsp hot water
+- 2 tsp honey
+- 3/4 cup hot milk
+
+Instructions:
+1. Sift the matcha powder into a mug.
+2. Add the hot water and whisk until no lumps remain. Stir in the honey.
+3. Add the milk and either whisk to combine or use a milk frother; serve immediately.
